@@ -1,0 +1,5 @@
+{
+  "project": "Maze solver MZ-1",
+  "version": "1.0.0",
+  "components": ["motor", "sensor", "controller"]
+}
